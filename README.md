@@ -16,7 +16,7 @@ This module has taught me the following:
 Please note: I found that merging data in tableu to be difficult, therefore I merged and created data tables in jupyter notebok and exported it as csv files. I then used the csv files in tableu. 
 
 - module 14: tableu practice and module content
--
+- I CANNOT UPLOAD THE CSV FILES INTO GITHUB DUE TO THE SIZE. PLEASE RUN THE JUPYTER NOTEBOOK FILE, AND IT WILL GENERATE THE CSV FILES.
 
 
 # Module 14 Challenge 
