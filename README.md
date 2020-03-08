@@ -18,6 +18,7 @@ Please note: I found that merging data in tableu to be difficult, therefore I me
 - module 14: tableu practice and module content
 - I CANNOT UPLOAD THE CSV FILES INTO GITHUB DUE TO THE SIZE. PLEASE RUN THE JUPYTER NOTEBOOK FILE, AND IT WILL GENERATE THE CSV FILES.
 
+- Bikes : Share_Tableau_LouiseHsu : THE CHALLENGE, STORY, AND VISUALIZATION
 
 # Module 14 Challenge 
 
